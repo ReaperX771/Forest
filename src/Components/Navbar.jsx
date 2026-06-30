@@ -50,7 +50,7 @@ const Navbar = () => {
           <li>
             <a
               href="#ecosystem"
-              className="relative text-white font-medium transition-all duration-300 hover:text-emerald-400 after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-emerald-400 after:transition-all after:duration-300 hover:after:w-full"
+              className="relative text-white font-medium transition-all duration-300 hover:text-emerald-400 after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-emerald-400 after:transition-all after:duration-300 hover:after:w-full scroll-mt-24"
             >
               Ecosystem
             </a>
